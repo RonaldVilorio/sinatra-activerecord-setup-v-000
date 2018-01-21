@@ -1,1 +1,1 @@
-require 'config/environment'
+require 'config/environment.rb'
